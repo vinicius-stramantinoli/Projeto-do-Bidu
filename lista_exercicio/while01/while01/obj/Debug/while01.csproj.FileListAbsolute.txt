@@ -1,0 +1,7 @@
+F:\Algoritmos\lista_exercicio\while01\while01\bin\Debug\while01.exe.config
+F:\Algoritmos\lista_exercicio\while01\while01\bin\Debug\while01.exe
+F:\Algoritmos\lista_exercicio\while01\while01\bin\Debug\while01.pdb
+F:\Algoritmos\lista_exercicio\while01\while01\obj\Debug\while01.csprojAssemblyReference.cache
+F:\Algoritmos\lista_exercicio\while01\while01\obj\Debug\while01.csproj.CoreCompileInputs.cache
+F:\Algoritmos\lista_exercicio\while01\while01\obj\Debug\while01.exe
+F:\Algoritmos\lista_exercicio\while01\while01\obj\Debug\while01.pdb

@@ -1,0 +1,7 @@
+F:\Algoritmos\lista_exercicio\while3\while3\bin\Debug\while3.exe.config
+F:\Algoritmos\lista_exercicio\while3\while3\bin\Debug\while3.exe
+F:\Algoritmos\lista_exercicio\while3\while3\bin\Debug\while3.pdb
+F:\Algoritmos\lista_exercicio\while3\while3\obj\Debug\while3.csprojAssemblyReference.cache
+F:\Algoritmos\lista_exercicio\while3\while3\obj\Debug\while3.csproj.CoreCompileInputs.cache
+F:\Algoritmos\lista_exercicio\while3\while3\obj\Debug\while3.exe
+F:\Algoritmos\lista_exercicio\while3\while3\obj\Debug\while3.pdb

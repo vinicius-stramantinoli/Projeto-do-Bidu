@@ -1,0 +1,13 @@
+F:\Algoritmos\lista_exercicio\while05\while05\bin\Debug\while05.exe.config
+F:\Algoritmos\lista_exercicio\while05\while05\bin\Debug\while05.exe
+F:\Algoritmos\lista_exercicio\while05\while05\bin\Debug\while05.pdb
+F:\Algoritmos\lista_exercicio\while05\while05\obj\Debug\while05.csproj.CoreCompileInputs.cache
+F:\Algoritmos\lista_exercicio\while05\while05\obj\Debug\while05.exe
+F:\Algoritmos\lista_exercicio\while05\while05\obj\Debug\while05.pdb
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while05\while05\bin\Debug\while05.exe.config
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while05\while05\bin\Debug\while05.exe
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while05\while05\bin\Debug\while05.pdb
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while05\while05\obj\Debug\while05.csprojAssemblyReference.cache
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while05\while05\obj\Debug\while05.csproj.CoreCompileInputs.cache
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while05\while05\obj\Debug\while05.exe
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while05\while05\obj\Debug\while05.pdb

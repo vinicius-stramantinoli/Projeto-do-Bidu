@@ -1,0 +1,6 @@
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while08\while08\bin\Debug\while08.exe.config
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while08\while08\bin\Debug\while08.exe
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while08\while08\bin\Debug\while08.pdb
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while08\while08\obj\Debug\while08.csproj.CoreCompileInputs.cache
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while08\while08\obj\Debug\while08.exe
+E:\CURSO DS\Lógica\Exercicios While 04.10\lista_exercicio\while08\while08\obj\Debug\while08.pdb
